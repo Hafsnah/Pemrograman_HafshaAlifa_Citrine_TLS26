@@ -1,7 +1,7 @@
 # Luminous Quest - Pemrograman Dasar TLS 2026
 
 **Nama:** Hafsha Alifa  
-**Kelompok:** [ISI KELOMPOK]
+**Kelompok:** Citrine
 
 Repository ini berisi hasil pengerjaan tugas Luminous Quest Pemrograman Dasar TLS 2026.
 
